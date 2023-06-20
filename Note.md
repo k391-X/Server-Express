@@ -1,2 +1,4 @@
+
 Run
-`npx ts-node server.ts`
+`npm install`
+`npx ts-node api-user.ts`
